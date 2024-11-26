@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.4.0] - 2024-11-26
+
+### Added
+- Changes in css/style.css
+
 ## [0.3.0] - 2024-11-26
 
 ### Added
