@@ -1,12 +1,7 @@
+![logo-reactstream2.svg](img/logo-reactstream2.svg)
+
 # [ReactStream](http://www.reactstream.com)
-
-<p align="center">
-  <img src="./docs/assets/logo.svg" alt="ReactStream Logo" width="200"/>
-</p>
-
-<p align="center">
-  Modern React Development Toolkit for Seamless Component Creation and Analysis
-</p>
+Fast React Development Toolkit to seamlessly create and analyze components in seconds
 
 <p align="center">
   <a href="https://www.npmjs.com/package/reactstream">
