@@ -1,4 +1,4 @@
-# [ReactStream](www.reactstream.com)
+# [ReactStream](http://www.reactstream.com)
 
 <p align="center">
   <img src="./docs/assets/logo.svg" alt="ReactStream Logo" width="200"/>
@@ -158,7 +158,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ## 📄 License
 
-ReactStream is [MIT licensed](LICENSE).
+ReactStream is [Apache 2.0 licensed](LICENSE).
 
 ## 🙋 Support
 
