@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.5.0] - 2024-11-26
+
+### Added
+- Changes in img/logo.png
+
 ## [0.4.1] - 2024-11-26
 
 ## [0.4.0] - 2024-11-26
